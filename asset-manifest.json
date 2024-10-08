@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/GitHubProfileFinder/static/css/main.1a83d901.css",
-    "main.js": "/GitHubProfileFinder/static/js/main.1ae79028.js",
-    "static/media/githup.jpg": "/GitHubProfileFinder/static/media/githup.6aad2dcbe4320dc6c75c.jpg",
-    "static/media/forming.jpg": "/GitHubProfileFinder/static/media/forming.6a9407f8e16d2e4e665a.jpg",
-    "static/media/home.jpg": "/GitHubProfileFinder/static/media/home.864ae76980580c85573e.jpg",
-    "static/media/OKYJ1L0.jpg": "/GitHubProfileFinder/static/media/OKYJ1L0.ffc5f277e78c146dfc4d.jpg",
-    "static/media/header.jpg": "/GitHubProfileFinder/static/media/header.846ce88c41523cb87262.jpg",
-    "static/media/resume.jpg": "/GitHubProfileFinder/static/media/resume.40d9ec3d0701d254f50f.jpg",
-    "index.html": "/GitHubProfileFinder/index.html",
-    "main.1a83d901.css.map": "/GitHubProfileFinder/static/css/main.1a83d901.css.map",
-    "main.1ae79028.js.map": "/GitHubProfileFinder/static/js/main.1ae79028.js.map"
+    "main.css": "/sivakumar-portfolio/static/css/main.1a83d901.css",
+    "main.js": "/sivakumar-portfolio/static/js/main.c026fcb7.js",
+    "static/media/githup.jpg": "/sivakumar-portfolio/static/media/githup.6aad2dcbe4320dc6c75c.jpg",
+    "static/media/forming.jpg": "/sivakumar-portfolio/static/media/forming.6a9407f8e16d2e4e665a.jpg",
+    "static/media/home.jpg": "/sivakumar-portfolio/static/media/home.864ae76980580c85573e.jpg",
+    "static/media/OKYJ1L0.jpg": "/sivakumar-portfolio/static/media/OKYJ1L0.ffc5f277e78c146dfc4d.jpg",
+    "static/media/header.jpg": "/sivakumar-portfolio/static/media/header.846ce88c41523cb87262.jpg",
+    "static/media/resume.jpg": "/sivakumar-portfolio/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "index.html": "/sivakumar-portfolio/index.html",
+    "main.1a83d901.css.map": "/sivakumar-portfolio/static/css/main.1a83d901.css.map",
+    "main.c026fcb7.js.map": "/sivakumar-portfolio/static/js/main.c026fcb7.js.map"
   },
   "entrypoints": [
     "static/css/main.1a83d901.css",
-    "static/js/main.1ae79028.js"
+    "static/js/main.c026fcb7.js"
   ]
 }
